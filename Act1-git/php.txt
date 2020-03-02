@@ -1,1 +1,0 @@
-PHP es un lenguaje interpretado en el lado del servidor
